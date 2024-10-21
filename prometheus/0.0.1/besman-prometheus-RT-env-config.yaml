@@ -7,7 +7,7 @@
 # If you are not using any particular value, remove it or comment it(#).
 #*** - These variables should not be removed, nor left empty.
 # BESMAN_ORG - used to mention where you should clone the repo from, default value is Be-Secure
-BESMAN_ORG: Be-Secure #***
+BESMAN_ORG: Be-Secure
 
 # BESMAN_ARTIFACT_TYPE - project/ml model/training dataset
 BESMAN_ARTIFACT_TYPE: project # project/ml model/training dataset #***
